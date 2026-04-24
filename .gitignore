@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+movies.json
+dist/
+build/
+*.exe
